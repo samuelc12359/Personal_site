@@ -1,0 +1,45 @@
+---
+ title: Work Experience
+---
+
+$\color{MidnightBlue}{\textbf{Data Analyst Research Assistant}}$ $\qquad$ $\qquad$$\qquad$$\qquad$ October 2019 – August 2020
+
+- Assisted four sociology professors on a project utilizing statistics and data analytics
+
+- Created visualizations using R for papers and presentations 
+
+- Completed statistical analysis of data set using R to plot regressions and find correlations
+
+$\color{MidnightBlue}{\textbf{Peer Mentor/Computer Science Tutor}}$  $\qquad$$\qquad$$\qquad$ October 2018 - Present
+
+- Mentored incoming freshman students who are undecided on their major
+
+- Worked one-on-one with students to find a major or field 
+
+- Created weekly meeting plans with presentations for students
+
+$\color{MidnightBlue}{\textbf{Team President & Player}}$ $\qquad$$\qquad$ $\qquad$$\qquad$$\qquad$ &nbsp;&nbsp;&nbsp;&nbsp; October 2018 - Present 
+
+- Managed all travel arrangements, documentation and finances for team
+
+- Coordinated three youth baseball camps with 70 kids ages 6-13
+
+- Developed fundraising strategies that brought in over $10,000
+
+$\color{MidnightBlue}{\textbf{Program Director for WDM Parks and Rec}}$ $\qquad$$\qquad$ May 2018 - August 2020
+
+- Oversaw activities for multiple sports programs; baseball, tennis, soccer
+
+- Ordered and purchased camp supplies for 400 kids
+
+- Mentored youth to develop technical skills and confidence
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<img src="no.png" alt="drawing" width="600"/>

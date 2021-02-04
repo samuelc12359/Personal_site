@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+
+$\color{MidnightBlue}{\textbf{Machine Learning Project}}$
+
+- Scraped data from MLB.com and cleaned dataset using R
+
+- Used Hotellings T-test to compare top players using 4 advanced metrics of MLB players
+
+- Created QDA and LDA classifiers that categorized players with over 90% accuracy
+
+- Analyzed player similarities using cluster analysis on 6 different stats
+
+## [Project Link](https://rpubs.com/sc29288/721565)
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<img src="no.png" alt="drawing" width="600"/>

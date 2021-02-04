@@ -1,5 +1,0 @@
----
-title: "About me"
----
-
-Why am I so Awesome

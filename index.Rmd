@@ -1,5 +1,47 @@
 ---
-title: "Personal Website"
+title: "Sam's Website"
 ---
 
-Hello, World!
+<p style="float: left; clear: left"> <img src="yes.jpeg" alt="drawing" width="255"/></p>
+
+ 
+
+$\qquad$- __Name:__ Samuel Cole
+
+$\qquad$- __Email:__ Scole1@iastate.edu
+
+$\qquad$- __Major:__ Data Science
+
+$\qquad$- __Minors:__ Mathematics and Sociology
+
+$\qquad$- __GPA:__ 3.79
+
+$\qquad$- __Graduation:__ May 2021
+
+<br>
+
+$\qquad$ $\color{MidnightBlue}{\textbf{Technical Skills}}$	
+
+$\qquad$ - __Programming Languages:__ R, Python, Java, SQL, GitHub
+
+$\qquad$ - __Software Experience:__ Microsoft Office Excel (Pivot Tables, V-Lookup, Analysis)
+
+$\qquad$ - __Programming Skills:__ Database Management, Data Structures, Machine Learning, Algorithms
+
+<br>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<img src="no.png" alt="drawing" width="600"/>
