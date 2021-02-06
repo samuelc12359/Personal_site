@@ -24,7 +24,7 @@ $\color{MidnightBlue}{\textbf{Exploratory analysis}}$ $\qquad$$\qquad$$\qquad$$\
 
 - Presented findings on individual player analysis to professor and class
 
-- Created cloroplath map of stadium locations using longitude and latitude data
+- Created cloroplath map of MLB stadium locations using longitude and latitude data
 
 ## [Project Link](https://rpubs.com/sc29288/552369)
 
