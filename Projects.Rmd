@@ -14,22 +14,20 @@ $\color{MidnightBlue}{\textbf{Machine Learning Project}}$
 
 ## [Project Link](https://rpubs.com/sc29288/721565)
 
-
 <br>
 
-<br>
+$\color{MidnightBlue}{\textbf{Exploratory}}$
 
-<br>
+- Exploratory analysis using correlations to answer questions on players and trends in the MLB
 
-<br>
+- Collaborated with team of two to analyze data using packages in R
 
-<br>
+- Presented findings on individual player analysis to professor and class
 
-<br>
+- Created cloroplath map of stadium locations using longitude and latitude data
 
-<br>
+## [Project Link](https://rpubs.com/sc29288/552369)
 
-<br>
 <br>
 
 <br>
