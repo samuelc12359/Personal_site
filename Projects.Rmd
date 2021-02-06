@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-$\color{MidnightBlue}{\textbf{Machine Learning Project}}$
+$\color{MidnightBlue}{\textbf{Machine Learning Project}}$$\qquad$$\qquad$ $\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$ Fall 2020
 
 - Scraped data from MLB.com and cleaned dataset using R
 
@@ -16,7 +16,7 @@ $\color{MidnightBlue}{\textbf{Machine Learning Project}}$
 
 <br>
 
-$\color{MidnightBlue}{\textbf{Exploratory}}$
+$\color{MidnightBlue}{\textbf{Exploratory analysis}}$ $\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$ Fall 2019
 
 - Exploratory analysis using correlations to answer questions on players and trends in the MLB
 
